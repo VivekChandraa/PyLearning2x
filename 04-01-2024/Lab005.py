@@ -1,6 +1,6 @@
 '''Print table by taking any 12user input'''
 
-num = float(input("Enter Number to print table"))
+num = int(input("Enter Number to print table"))
 
 print(f"{num}*1= {num*1}")
 print(f"{num}*2= {num*2}")
