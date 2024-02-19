@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e02607a-c6c2-48ff-a4af-cb3279ddab9b" name="Changes" comment="Task 1 and Task 2 complete">
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab 013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-02-2024/Lab16.py" afterDir="false" />
+    <list default="true" id="9e02607a-c6c2-48ff-a4af-cb3279ddab9b" name="Changes" comment="For Loop and while loop task done">
+      <change afterPath="$PROJECT_DIR$/12-02-2024/Lab018-Task-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-02-2024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-02-2024/Lab020.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +39,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -71,6 +70,8 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab014.executor": "Run",
+    "Python.Lab018-Task-1.executor": "Debug",
+    "Python.Lab019.executor": "Run",
     "Python.Lab15.executor": "Run",
     "Python.Lab16.executor": "Run",
     "Python.Task 1.executor": "Run",
@@ -79,10 +80,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "C:/Users/DELL/Downloads/PyLearning2.0x-main (1)/PyLearning2.0x-main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab 013">
+  <component name="RunManager" selected="Python.Lab019">
     <configuration name="Lab 013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
@@ -97,6 +99,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-02-2024/Lab 013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning2x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-02-2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-02-2024/Lab011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab018-Task-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-02-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12-02-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-02-2024/Lab014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-02-2024/Lab018-Task-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning2x" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,33 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-02-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14-02-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-02-2024/Lab15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning2x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-02-2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09-02-2024/Lab16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14-02-2024/Lab019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,10 +219,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab019" />
+        <item itemvalue="Python.Lab018-Task-1" />
+        <item itemvalue="Python.Lab011" />
         <item itemvalue="Python.Lab 013" />
-        <item itemvalue="Python.Lab16" />
-        <item itemvalue="Python.Lab15" />
-        <item itemvalue="Python.Lab014" />
         <item itemvalue="Python.Lab012" />
       </list>
     </recent_temporary>
@@ -273,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707331756295</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="For Loop and while loop task done">
+      <option name="closed" value="true" />
+      <created>1707582189369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707582189369</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +300,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task Complete" />
     <MESSAGE value="Task 1 and Task 2 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 and Task 2 complete" />
+    <MESSAGE value="For Loop and while loop task done" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Loop and while loop task done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,6 +309,30 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/09-02-2024/Lab009.py</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12-02-2024/Lab018-Task-1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12-02-2024/Lab018-Task-1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12-02-2024/Lab018-Task-1.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12-02-2024/Lab018-Task-1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14-02-2024/Lab019.py</url>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
