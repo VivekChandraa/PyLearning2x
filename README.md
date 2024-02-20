@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Test Automation**
 
-- 🤝 I’m looking for help with **Python Scripy**
+- 🤝 I’m looking for help with **Python Script**
 
 - 💬 Ask me about **Python, Server**
 
 - 📫 How to reach me **vivekchandra093@gmail.com**
 
-- ⚡ Fun fact **I am fitness freak**
+- ⚡ Fun fact **I am crazy fitness freak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
