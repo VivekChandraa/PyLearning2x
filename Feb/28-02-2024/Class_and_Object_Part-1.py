@@ -12,4 +12,5 @@ class Human():
 Vivek = Human()
 Vivek.speak()
 Vivek.walk()
-Vivek.move()
+if Vivek.move().:
+
